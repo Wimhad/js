@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Example</title>
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF"
+        crossorigin="anonymous"
+    >
+    <script type="module" src="../index.js"></script>
+</head>
+<body>
+<div id="host" class="main">
+    <button id="btn" type="button" class="btn-2" name="btnName">КНОПКА 1</button>
+    <button id="btn2" type="button" class="btn-2" name="btnName">КНОПКА 2</button>
+    <button id="btn3" type="button" class="btn-2" name="btnName">КНОПКА 3</button>
+
+    <button id="element">
+        УНИКАЛЬНАЯ КНОПКА
+    </button>
+</div>
+
+<form id="form">
+    <label>
+        <input type="checkbox" name="check">
+        <span>Я согласен на обработку персональных данных</span>
+    </label>
+
+    <br>
+
+    <label>
+        <input type="radio" name="var" value="1">
+        <span>Вариант 1</span>
+    </label>
+    <label>
+        <input type="radio" name="var" value="2">
+        <span>Вариант 2</span>
+    </label>
+    <label>
+        <input type="radio" name="var" value="3">
+        <span>Вариант 3</span>
+    </label>
+
+    <button type="submit">ОТПРАВИТЬ</button>
+</form>
+
+<div id="block" class="block block--disabled">
+    ОБЫЧНЫЙ БЛОК
+</div>
+</body>
+
+<style>
+    .block {
+      width: 500px;
+      height: 200px;
+    }
+
+    .block--disabled {
+      background: #483f3f;
+    }
+
+    .block--active {
+      background: #fa7760;
+    }
+</style>
+</html>
