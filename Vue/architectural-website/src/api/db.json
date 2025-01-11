@@ -1,0 +1,78 @@
+{
+  "contact": [
+    {
+      "id": "abc9",
+      "name": "Wissam",
+      "email": "wissam.addahi.22@gmail.com",
+      "message": "Hi, this is my first message!"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Futuristic Office Tower",
+      "description": "A state-of-the-art office building featuring eco-friendly design.",
+      "image": "/images/projects/office-tower.jpg",
+      "details": {
+        "Location": "London, UK",
+        "Completed": "2023",
+        "Architect": "Wissam Design Studio"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Modern Residential Complex",
+      "description": "Luxury apartments with smart home technology and community spaces.",
+      "image": "/images/projects/residential-complex.jpg",
+      "details": {
+        "Location": "Dubai, UAE",
+        "Completed": "2024",
+        "Architect": "Wissam Design Studio"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Sustainable Green Campus",
+      "description": "An educational campus designed with sustainable materials and energy-efficient systems.",
+      "image": "/images/projects/green-campus.jpg",
+      "details": {
+        "Location": "Berlin, Germany",
+        "Completed": "2022",
+        "Architect": "Wissam Design Studio"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Luxury Beachside Villas",
+      "description": "Exclusive beachfront villas with modern architecture and private pools.",
+      "image": "/images/projects/beachside-villas.webp",
+      "details": {
+        "Location": "Malibu, USA",
+        "Completed": "2023",
+        "Architect": "Wissam Design Studio"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Urban Renewal Project",
+      "description": "A mixed-use development revitalizing the city center with parks and modern amenities.",
+      "image": "/images/projects/urban-renewal.webp",
+      "details": {
+        "Location": "Tokyo, Japan",
+        "Completed": "2025",
+        "Architect": "Wissam Design Studio"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Iconic Bridge Design",
+      "description": "A landmark bridge that seamlessly combines functionality and artistic design.",
+      "image": "/images/projects/iconic-bridge.webp",
+      "details": {
+        "Location": "Sydney, Australia",
+        "Completed": "2021",
+        "Architect": "Wissam Design Studio"
+      }
+    }
+  ]
+}
