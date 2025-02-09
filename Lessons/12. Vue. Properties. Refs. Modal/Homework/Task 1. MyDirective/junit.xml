@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="18.643">
+  <testsuite name="12.h.1 MyDirective" errors="0" failures="0" skipped="0" timestamp="2025-01-28T21:25:32" time="6.804" tests="5">
+    <testcase classname="12.h.1 MyDirective 12.h.1.1 MyDirective has data" name="12.h.1 MyDirective 12.h.1.1 MyDirective has data" time="0.003">
+    </testcase>
+    <testcase classname="12.h.1 MyDirective 12.h.1.2 MyDirective is a Vue instance" name="12.h.1 MyDirective 12.h.1.2 MyDirective is a Vue instance" time="0.001">
+    </testcase>
+    <testcase classname="12.h.1 MyDirective 12.h.1.3 text &apos;оч&apos;" name="12.h.1 MyDirective 12.h.1.3 text &apos;оч&apos;" time="0.091">
+    </testcase>
+    <testcase classname="12.h.1 MyDirective 12.h.1.4 text &apos;нет результатов&apos;" name="12.h.1 MyDirective 12.h.1.4 text &apos;нет результатов&apos;" time="0.02">
+    </testcase>
+    <testcase classname="12.h.1 MyDirective 12.h.1.5 text &apos;а&apos;" name="12.h.1 MyDirective 12.h.1.5 text &apos;а&apos;" time="0.099">
+    </testcase>
+  </testsuite>
+</testsuites>
